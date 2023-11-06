@@ -3,6 +3,11 @@ prerequisite to run project -
 
 python
 docker
+os
+subprocess
+boto3
+cursor
+logging
 mysql.exe
 mysqldump.exe
 
