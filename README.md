@@ -18,3 +18,4 @@ create MYSQL RDS instance,
 create ECS and push docker file in created repository,
 create lambda function from container image and select from image,
 test the lambda function,
+
